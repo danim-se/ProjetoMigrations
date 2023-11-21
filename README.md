@@ -1,5 +1,5 @@
 # projeto
- Migrations e adicionadno dados.
+ Migrations e adicionando dados.
 
 Passo a passo de como criar migrations no laravel
 
